@@ -1,0 +1,19 @@
+.memo-box {
+    padding: 10px;
+    background-color: #ffed91;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.memo-box span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.memo-box button {
+    background-color: #ffaa00;
+    border: none;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    font-size: 14px;
+    color: #555555;
+}
